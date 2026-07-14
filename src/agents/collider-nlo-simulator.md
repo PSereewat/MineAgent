@@ -1,5 +1,5 @@
 ---
-name: collider-simulator
+name: collider-nlo-simulator
 description: >
   MadGraph5 collider simulation agent. Handles process compilation and event generation
   with optional Pythia8 parton shower and Delphes detector simulation. Use after a UFO
