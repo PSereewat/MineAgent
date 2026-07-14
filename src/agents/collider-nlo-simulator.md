@@ -7,7 +7,7 @@ description: >
 tools: Read, Write, Edit, Bash, Glob, Grep
 model: inherit
 skills:
-  - madgraph-simulator
+  - madgraph-nlo-simulator
   - magnus
 ---
 
